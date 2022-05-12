@@ -79,7 +79,7 @@ Note: Make sure you download the software that matches your computer's processor
 2.8. Hover over 7-Zip.
 2.9. Click Extract Here
 
-3. Format the SD card.
+3. Format the SD card. (More instructions to follow in modifications phase).
 
 Now that the image has been extracted, we can move the image to the SD card.
 
