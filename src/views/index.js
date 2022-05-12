@@ -1,5 +1,5 @@
 import ExternalApi from "./external-api";
 import Home from "./home";
-import Profile from "./profile";
+import Camera from "./camera";
 
-export { ExternalApi, Home, Profile };
+export { ExternalApi, Home, Camera };

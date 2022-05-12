@@ -1,6 +1,7 @@
 import React from "react";
 
 import { useAuth0 } from "@auth0/auth0-react";
+import ImageGallery from "../components/image-gallery";
 
 const Profile = () => {
   const { user } = useAuth0();
@@ -26,6 +27,7 @@ const Profile = () => {
           {JSON.stringify(user, null, 2)}
         </pre>
       </div>
+      <ImageGallery></ImageGallery>
     </div>
   );
 };
